@@ -22,7 +22,6 @@
     color: #FFF0DC;
     text-decoration: none;
     font-size: 2rem;
-    border: #FFF0DC 5px solid;
     padding: 20px 70px 20px 70px;
     border-radius: 30%;
     font-family: 'Vollkorn', serif;
@@ -31,7 +30,7 @@
 }
 
 .conteudo__principal__link:hover{
-    background-color: #543A14;
+    border-bottom: #F0BB78 solid 5px;
 
 }
 
